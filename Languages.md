@@ -31,3 +31,10 @@ There are several fundamental operations that can be performed on languages. The
 
 3. **Kleene Star (L\*)**
    The Kleene star operation applied to a language LL generates a new language containing all possible concatenations of zero or more strings from LL. Formally, for a language LL, the Kleene star is represented as L∗={x1,x2,...,xn : n≥0 , and xi∈L for 1≤i≤n}L∗={x1​x2​…xn​:n≥0, and xi​∈L for 1≤i≤n}
+
+4. **Intersection (L1 ∩ L2)**
+   The intersection of two languages L1 and L2 is a new language containing string that belong to both L1 and L2. Formally, for languages L1 and L2, the intersection is represented as L1​∩L2​={x:x∈L1​ and x∈L2​}.
+
+5. **Complement (!L):**
+   The complement of a language L with respect to an [[#^ea5513 | Alphabet]] is the set of all string from the alphabet that are not in L. This operation is defined only for certain types of languages, depending on the context.
+

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a37c61cc032ce6b",
+            "id": "d9ad579ba7d4bb20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "c7742e8ceccfaead",
+            "id": "4a37c61cc032ce6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regular Languages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d391b854ad2070bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages.md"
+                "file": "Index.md"
               }
             }
           }
@@ -160,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7742e8ceccfaead",
+  "active": "d9ad579ba7d4bb20",
   "lastOpenFiles": [
-    "README.md",
+    "Regular Languages.md",
     "Index.md",
     "Languages.md",
+    "README.md",
     "Regular Languages and Finite Automate.md"
   ]
 }
